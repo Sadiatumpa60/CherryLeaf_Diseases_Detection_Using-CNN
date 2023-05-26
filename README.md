@@ -7,7 +7,8 @@ This project is all about cherry leaf diseases detection.We are try to classify 
 ## Infected Leaf:
 ![CherryPowderyMildew(3)](https://github.com/Sadiatumpa60/CherryLeaf_Diseases_Detection_Using-CNN/assets/131945108/9bf10a6c-0cae-4990-94b3-bd970e28a7df)
 
-
+## Methodology
+![Blank diagram](https://github.com/Sadiatumpa60/CherryLeaf_Diseases_Detection_Using-CNN/assets/131945108/7a5681ce-942b-4e45-acda-f6e29ab90fc8)
 
 
 
