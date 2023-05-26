@@ -20,4 +20,4 @@ After using the Convolation Neural Network we get 99.69% accuracy from 6668 imag
 
 ## How Accurately Our Model can Predict:
 
-![download](https://github.com/Sadiatumpa60/CherryLeaf_Diseases_Detection_Using-CNN/assets/131945108/9368de2a-c0a9-4e76-8f43-77f2ed494b26)
+![download (1)](https://github.com/Sadiatumpa60/CherryLeaf_Diseases_Detection_Using-CNN/assets/131945108/807ec778-0910-4d7e-8841-6aebf101c188)
