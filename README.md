@@ -15,7 +15,7 @@ This project is all about cherry leaf diseases detection.We are try to classify 
 After using the Convolation Neural Network we get 99.69% accuracy from 6668 images of two classes.
 
 ## Graphical Presentation Of Training & Testing:
-
+![download](https://github.com/Sadiatumpa60/CherryLeaf_Diseases_Detection_Using-CNN/assets/131945108/9368de2a-c0a9-4e76-8f43-77f2ed494b26)
 
 
 
